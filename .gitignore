@@ -20,13 +20,7 @@
 .env.test.local
 .env.production.local
 
-# Server (local)
-/logs
-
 # Developer environment
-/.git
 /node_modules
 /vendor
-TODO.md
 composer.phar
-/ignored
